@@ -49,8 +49,8 @@ include 'config.php';
             <table class="table table-bordered table-hover table-striped">
             <tr>
                 <th>Id</th>
-                <th>Judul</th>
-                <th>Alamat</th>
+                <th>Data</th>
+                <th>Status</th>
                 <th>Hapus</th>
 
             </tr>
